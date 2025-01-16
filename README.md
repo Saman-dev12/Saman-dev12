@@ -78,7 +78,7 @@ My expertise lies in full-stack development, particularly within the MERN and Ne
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saman-dev12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saman-dev12&theme=dark&hide_border=false)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-dev12&" alt="saman-dev12" /></p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saman-dev12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
